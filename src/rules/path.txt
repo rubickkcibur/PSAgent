@@ -1,0 +1,1408 @@
+no 0: score = -5.761754512786865 
+<PATH> nucleic_acid_nucleoside_or_nucleotide -causes-> experimental_model_of_disease -result_of-> molecular_function
+no 1: score = -3.4893417358398438 
+<PATH> patient_or_disabled_group <-manages- health_care_related_organization -carries_out-> occupational_activity
+no 2: score = -7.509389877319336 
+<PATH> neoplastic_process -co-occurs_with-> experimental_model_of_disease -process_of-> bird
+no 3: score = -5.74077033996582 
+<PATH> lipid -causes-> mental_or_behavioral_dysfunction <-process_of- biologic_function
+no 4: score = -7.257332801818848 
+<PATH> neoplastic_process -process_of-> pathologic_function -process_of-> vertebrate
+no 5: score = -6.820394992828369 
+<PATH> antibiotic -complicates-> neoplastic_process -<null>-> neoplastic_process
+no 6: score = -6.138612747192383 
+<PATH> eicosanoid -affects-> genetic_function <-manifestation_of- disease_or_syndrome
+no 7: score = -6.194033622741699 
+<PATH> fully_formed_anatomical_structure -location_of-> biologic_function <-process_of- disease_or_syndrome
+no 8: score = -2.973895788192749 
+<PATH> machine_activity -<null>-> machine_activity -issue_in-> occupation_or_discipline
+no 9: score = -6.749647617340088 
+<PATH> cell_or_molecular_dysfunction -affects-> genetic_function <-process_of- pathologic_function
+no 10: score = -5.5481109619140625 
+<PATH> molecular_biology_research_technique -measures-> organic_chemical -interacts_with-> receptor
+no 11: score = -6.740627765655518 
+<PATH> organism_function -process_of-> experimental_model_of_disease -<null>-> experimental_model_of_disease
+no 12: score = -3.4893417358398438 
+<PATH> patient_or_disabled_group <-manages- health_care_related_organization -carries_out-> occupational_activity
+no 13: score = -6.2324137687683105 
+<PATH> laboratory_procedure -diagnoses-> pathologic_function -<null>-> pathologic_function
+no 14: score = -5.797454357147217 
+<PATH> tissue <-contains- body_space_or_junction -connected_to-> tissue
+no 15: score = -5.580615997314453 
+<PATH> anatomical_abnormality <-isa- congenital_abnormality -part_of-> plant
+no 16: score = -4.13730525970459 
+<PATH> plant <-process_of- experimental_model_of_disease <-complicates- biologically_active_substance
+no 17: score = -6.127985000610352 
+<PATH> pathologic_function -complicates-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 18: score = -5.433071136474609 
+<PATH> rickettsia_or_chlamydia <-process_of- genetic_function <-disrupts- immunologic_factor
+no 19: score = -4.783200740814209 
+<PATH> steroid -causes-> neoplastic_process <-manifestation_of- congenital_abnormality
+no 20: score = -5.995818138122559 
+<PATH> organophosphorus_compound <-consists_of- body_substance -consists_of-> organic_chemical
+no 21: score = -5.764554023742676 
+<PATH> amino_acid_peptide_or_protein -causes-> pathologic_function <-causes- biologically_active_substance
+no 22: score = -3.861947774887085 
+<PATH> age_group <-interacts_with- population_group <-affects- regulation_or_law
+no 23: score = -5.898667335510254 
+<PATH> acquired_abnormality <-result_of- human_caused_phenomenon_or_process -result_of-> genetic_function
+no 24: score = -5.74553108215332 
+<PATH> organic_chemical -affects-> experimental_model_of_disease <-affects- biomedical_or_dental_material
+no 25: score = -5.7956318855285645 
+<PATH> invertebrate <-part_of- anatomical_structure -part_of-> reptile
+no 26: score = -4.673245429992676 
+<PATH> gene_or_genome -location_of-> cell_or_molecular_dysfunction -produces-> vitamin
+no 27: score = -6.486796855926514 
+<PATH> enzyme <-interacts_with- organophosphorus_compound -isa-> chemical_viewed_structurally
+no 28: score = -5.445839881896973 
+<PATH> cell -location_of-> genetic_function -affects-> pathologic_function
+no 29: score = -6.954139232635498 
+<PATH> clinical_attribute -result_of-> environmental_effect_of_humans -result_of-> organism_function
+no 30: score = -5.409221172332764 
+<PATH> vitamin <-interacts_with- neuroreactive_substance_or_biogenic_amine <-interacts_with- chemical_viewed_functionally
+no 31: score = -4.695541858673096 
+<PATH> animal <-process_of- pathologic_function -affects-> mammal
+no 32: score = -6.312950611114502 
+<PATH> injury_or_poisoning <-result_of- experimental_model_of_disease -<null>-> experimental_model_of_disease
+no 33: score = -6.2335405349731445 
+<PATH> organism_function -precedes-> physiologic_function -<null>-> physiologic_function
+no 34: score = -5.764554023742676 
+<PATH> amino_acid_peptide_or_protein -causes-> pathologic_function <-causes- biologically_active_substance
+no 35: score = -5.519413948059082 
+<PATH> pharmacologic_substance -affects-> cell_function -<null>-> cell_function
+no 36: score = -6.468495845794678 
+<PATH> mental_process -process_of-> pathologic_function -result_of-> organ_or_tissue_function
+no 37: score = -5.898667335510254 
+<PATH> acquired_abnormality <-result_of- human_caused_phenomenon_or_process -result_of-> genetic_function
+no 38: score = -5.108417510986328 
+<PATH> research_activity -measures-> lipid -interacts_with-> steroid
+no 39: score = -5.505251884460449 
+<PATH> steroid <-interacts_with- amino_acid_peptide_or_protein -isa-> substance
+no 40: score = -6.557518005371094 
+<PATH> molecular_function -process_of-> pathologic_function -process_of-> fungus
+no 41: score = -3.7168993949890137 
+<PATH> professional_or_occupational_group -manages-> professional_society -carries_out-> health_care_activity
+no 42: score = -7.152653694152832 
+<PATH> disease_or_syndrome -precedes-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 43: score = -5.222232341766357 
+<PATH> body_location_or_region -conceptual_part_of-> fully_formed_anatomical_structure -location_of-> pathologic_function
+no 44: score = -6.419810771942139 
+<PATH> antibiotic <-uses- therapeutic_or_preventive_procedure -associated_with-> anatomical_abnormality
+no 45: score = -5.6677093505859375 
+<PATH> organophosphorus_compound -causes-> disease_or_syndrome <-causes- neuroreactive_substance_or_biogenic_amine
+no 46: score = -6.134735107421875 
+<PATH> neuroreactive_substance_or_biogenic_amine -complicates-> disease_or_syndrome -affects-> genetic_function
+no 47: score = -4.673245429992676 
+<PATH> gene_or_genome -location_of-> cell_or_molecular_dysfunction -produces-> vitamin
+no 48: score = -4.867818355560303 
+<PATH> injury_or_poisoning -disrupts-> organ_or_tissue_function <-result_of- clinical_attribute
+no 49: score = -7.229919910430908 
+<PATH> cell_function -process_of-> neoplastic_process -associated_with-> clinical_attribute
+no 50: score = -4.764016628265381 
+<PATH> finding -evaluation_of-> disease_or_syndrome -manifestation_of-> injury_or_poisoning
+no 51: score = -6.2324137687683105 
+<PATH> laboratory_procedure -diagnoses-> pathologic_function -<null>-> pathologic_function
+no 52: score = -7.152653694152832 
+<PATH> disease_or_syndrome -precedes-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 53: score = -6.366362571716309 
+<PATH> physiologic_function -precedes-> cell_function -co-occurs_with-> genetic_function
+no 54: score = -3.6771130561828613 
+<PATH> body_space_or_junction -isa-> spatial_concept -issue_in-> occupation_or_discipline
+no 55: score = -7.3223114013671875 
+<PATH> mental_or_behavioral_dysfunction -process_of-> experimental_model_of_disease -complicates-> cell_or_molecular_dysfunction
+no 56: score = -5.898667335510254 
+<PATH> acquired_abnormality <-result_of- human_caused_phenomenon_or_process -result_of-> genetic_function
+no 57: score = -5.898667335510254 
+<PATH> acquired_abnormality <-result_of- human_caused_phenomenon_or_process -result_of-> genetic_function
+no 58: score = -3.0523781776428223 
+<PATH> idea_or_concept <-isa- nucleotide_sequence -isa-> conceptual_entity
+no 59: score = -6.557518005371094 
+<PATH> molecular_function -process_of-> pathologic_function -process_of-> fungus
+no 60: score = -6.870872974395752 
+<PATH> anatomical_abnormality -result_of-> phenomenon_or_process -result_of-> cell_function
+no 61: score = -2.7315754890441895 
+<PATH> health_care_related_organization -isa-> organization -location_of-> molecular_biology_research_technique
+no 62: score = -3.4168179035186768 
+<PATH> eicosanoid -affects-> neoplastic_process -<null>-> neoplastic_process
+no 63: score = -7.226044178009033 
+<PATH> pathologic_function -precedes-> experimental_model_of_disease <-precedes- neoplastic_process
+no 0: score = -5.1002583503723145 
+<PATH> environmental_effect_of_humans -<null>-> environmental_effect_of_humans -<null>-> environmental_effect_of_humans
+no 1: score = -5.755265235900879 
+<PATH> element_ion_or_isotope -causes-> acquired_abnormality -manifestation_of-> cell_or_molecular_dysfunction
+no 2: score = -6.744088649749756 
+<PATH> molecular_function -process_of-> mental_or_behavioral_dysfunction -process_of-> vertebrate
+no 3: score = -5.459536552429199 
+<PATH> neuroreactive_substance_or_biogenic_amine <-produces- pathologic_function -<null>-> pathologic_function
+no 4: score = -4.783200740814209 
+<PATH> steroid -causes-> neoplastic_process <-manifestation_of- congenital_abnormality
+no 5: score = -4.857687473297119 
+<PATH> inorganic_chemical -affects-> neoplastic_process <-causes- enzyme
+no 6: score = -5.455026626586914 
+<PATH> tissue <-produces- disease_or_syndrome -produces-> biologically_active_substance
+no 7: score = -4.726609230041504 
+<PATH> body_part_organ_or_organ_component -location_of-> disease_or_syndrome -affects-> fungus
+no 8: score = -4.83875036239624 
+<PATH> organism_attribute <-associated_with- disease_or_syndrome -process_of-> mammal
+no 9: score = -5.20334529876709 
+<PATH> eicosanoid -causes-> experimental_model_of_disease <-causes- receptor
+no 10: score = -7.426011562347412 
+<PATH> disease_or_syndrome -process_of-> experimental_model_of_disease -process_of-> organ_or_tissue_function
+no 11: score = -7.476946830749512 
+<PATH> cell_or_molecular_dysfunction -process_of-> pathologic_function <-isa- disease_or_syndrome
+no 12: score = -7.52085018157959 
+<PATH> pathologic_function -process_of-> cell_or_molecular_dysfunction -process_of-> molecular_function
+no 13: score = -6.227578163146973 
+<PATH> finding <-isa- sign_or_symptom -associated_with-> disease_or_syndrome
+no 14: score = -4.949633598327637 
+<PATH> congenital_abnormality <-co-occurs_with- disease_or_syndrome -affects-> fungus
+no 15: score = -5.122280120849609 
+<PATH> biomedical_or_dental_material -affects-> neoplastic_process -<null>-> neoplastic_process
+no 16: score = -4.813257217407227 
+<PATH> chemical_viewed_functionally -causes-> cell_or_molecular_dysfunction <-affects- immunologic_factor
+no 17: score = -7.013660907745361 
+<PATH> experimental_model_of_disease -process_of-> pathologic_function -process_of-> vertebrate
+no 18: score = -7.446136474609375 
+<PATH> pathologic_function -process_of-> experimental_model_of_disease -process_of-> animal
+no 19: score = -6.236183166503906 
+<PATH> receptor <-produces- genetic_function -<null>-> genetic_function
+no 20: score = -6.255241394042969 
+<PATH> chemical_viewed_structurally -causes-> experimental_model_of_disease <-process_of- biologic_function
+no 21: score = -3.6149039268493652 
+<PATH> fish -exhibits-> social_behavior <-process_of- individual_behavior
+no 22: score = -5.8529462814331055 
+<PATH> immunologic_factor <-interacts_with- enzyme -isa-> entity
+no 23: score = -6.109525203704834 
+<PATH> diagnostic_procedure -affects-> cell_function -<null>-> cell_function
+no 24: score = -5.076757907867432 
+<PATH> carbohydrate <-interacts_with- amino_acid_peptide_or_protein -isa-> entity
+no 25: score = -6.290055751800537 
+<PATH> pathologic_function -<null>-> pathologic_function -affects-> plant
+no 26: score = -2.9937045574188232 
+<PATH> amino_acid_sequence -isa-> molecular_sequence -<null>-> molecular_sequence
+no 27: score = -7.0361433029174805 
+<PATH> cell_or_molecular_dysfunction -process_of-> pathologic_function <-process_of- organism_function
+no 28: score = -4.583942890167236 
+<PATH> food -causes-> acquired_abnormality -isa-> entity
+no 29: score = -7.509389877319336 
+<PATH> neoplastic_process -co-occurs_with-> experimental_model_of_disease -process_of-> bird
+no 30: score = -5.3152756690979 
+<PATH> hazardous_or_poisonous_substance -causes-> neoplastic_process -<null>-> neoplastic_process
+no 31: score = -5.222232341766357 
+<PATH> body_location_or_region -conceptual_part_of-> fully_formed_anatomical_structure -location_of-> pathologic_function
+no 32: score = -6.7611212730407715 
+<PATH> cell_function -process_of-> pathologic_function -process_of-> animal
+no 33: score = -7.255993366241455 
+<PATH> natural_phenomenon_or_process <-isa- disease_or_syndrome -affects-> genetic_function
+no 34: score = -5.596765518188477 
+<PATH> neuroreactive_substance_or_biogenic_amine -interacts_with-> enzyme -isa-> chemical_viewed_functionally
+no 35: score = -5.6677093505859375 
+<PATH> organophosphorus_compound -causes-> disease_or_syndrome <-causes- neuroreactive_substance_or_biogenic_amine
+no 36: score = -6.339112281799316 
+<PATH> genetic_function -process_of-> disease_or_syndrome <-result_of- environmental_effect_of_humans
+no 37: score = -7.509389877319336 
+<PATH> neoplastic_process -co-occurs_with-> experimental_model_of_disease -process_of-> bird
+no 38: score = -6.3010149002075195 
+<PATH> laboratory_procedure -associated_with-> disease_or_syndrome <-affects- biomedical_or_dental_material
+no 39: score = -5.838978290557861 
+<PATH> alga <-affects- experimental_model_of_disease -process_of-> organism
+no 40: score = -5.4389543533325195 
+<PATH> clinical_attribute -measurement_of-> mental_process -co-occurs_with-> organ_or_tissue_function
+no 41: score = -5.0312180519104 
+<PATH> human <-part_of- acquired_abnormality -isa-> entity
+no 42: score = -2.1717281341552734 
+<PATH> molecular_sequence <-isa- carbohydrate_sequence -isa-> molecular_sequence
+no 43: score = -5.488692283630371 
+<PATH> hazardous_or_poisonous_substance -complicates-> disease_or_syndrome <-process_of- molecular_function
+no 44: score = -4.8895263671875 
+<PATH> amino_acid_peptide_or_protein -interacts_with-> vitamin <-interacts_with- chemical_viewed_structurally
+no 45: score = -3.7662315368652344 
+<PATH> age_group <-property_of- group_attribute -issue_in-> biomedical_occupation_or_discipline
+no 46: score = -6.074845314025879 
+<PATH> laboratory_or_test_result -evaluation_of-> experimental_model_of_disease -produces-> enzyme
+no 47: score = -3.4026682376861572 
+<PATH> organization <-isa- professional_society -location_of-> occupational_activity
+no 48: score = -5.505251884460449 
+<PATH> steroid <-interacts_with- amino_acid_peptide_or_protein -isa-> substance
+no 49: score = -5.682226181030273 
+<PATH> therapeutic_or_preventive_procedure <-result_of- disease_or_syndrome -<null>-> disease_or_syndrome
+no 50: score = -7.14738655090332 
+<PATH> natural_phenomenon_or_process <-isa- pathologic_function -<null>-> pathologic_function
+no 51: score = -5.476958274841309 
+<PATH> chemical_viewed_functionally -affects-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 52: score = -4.443201065063477 
+<PATH> geographic_area -associated_with-> acquired_abnormality -manifestation_of-> cell_or_molecular_dysfunction
+no 53: score = -1.7418311834335327 
+<PATH> carbohydrate_sequence -isa-> molecular_sequence -result_of-> mental_process
+no 54: score = -6.339112281799316 
+<PATH> genetic_function -process_of-> disease_or_syndrome <-result_of- environmental_effect_of_humans
+no 55: score = -4.952070713043213 
+<PATH> biomedical_or_dental_material -interacts_with-> hormone <-produces- biologic_function
+no 56: score = -5.971318244934082 
+<PATH> chemical_viewed_functionally <-isa- immunologic_factor <-produces- neoplastic_process
+no 57: score = -6.744088649749756 
+<PATH> molecular_function -process_of-> mental_or_behavioral_dysfunction -process_of-> vertebrate
+no 58: score = -7.242618560791016 
+<PATH> neoplastic_process -precedes-> pathologic_function -<null>-> pathologic_function
+no 59: score = -5.455026626586914 
+<PATH> tissue <-produces- disease_or_syndrome -produces-> biologically_active_substance
+no 60: score = -5.887819290161133 
+<PATH> indicator_reagent_or_diagnostic_aid <-assesses_effect_of- laboratory_procedure -diagnoses-> neoplastic_process
+no 61: score = -5.5425286293029785 
+<PATH> laboratory_or_test_result -evaluation_of-> disease_or_syndrome -result_of-> genetic_function
+no 62: score = -5.122280120849609 
+<PATH> biomedical_or_dental_material -affects-> neoplastic_process -<null>-> neoplastic_process
+no 63: score = -7.288360595703125 
+<PATH> neoplastic_process -precedes-> pathologic_function -co-occurs_with-> acquired_abnormality
+no 0: score = -5.72883939743042 
+<PATH> genetic_function <-process_of- pathologic_function -produces-> neuroreactive_substance_or_biogenic_amine
+no 1: score = -7.267804145812988 
+<PATH> mental_or_behavioral_dysfunction -co-occurs_with-> neoplastic_process -<null>-> neoplastic_process
+no 2: score = -6.273820877075195 
+<PATH> mental_process -process_of-> neoplastic_process -affects-> invertebrate
+no 3: score = -5.47037410736084 
+<PATH> indicator_reagent_or_diagnostic_aid -causes-> experimental_model_of_disease -result_of-> genetic_function
+no 4: score = -6.295208930969238 
+<PATH> mental_or_behavioral_dysfunction -affects-> pathologic_function <-result_of- organism_attribute
+no 5: score = -6.273820877075195 
+<PATH> mental_process -process_of-> neoplastic_process -affects-> invertebrate
+no 6: score = -7.229919910430908 
+<PATH> cell_function -process_of-> neoplastic_process -associated_with-> clinical_attribute
+no 7: score = -6.830241680145264 
+<PATH> experimental_model_of_disease -<null>-> experimental_model_of_disease -result_of-> genetic_function
+no 8: score = -5.725902080535889 
+<PATH> inorganic_chemical -affects-> neoplastic_process <-manifestation_of- congenital_abnormality
+no 9: score = -6.074845314025879 
+<PATH> laboratory_or_test_result -evaluation_of-> experimental_model_of_disease -produces-> enzyme
+no 10: score = -4.523865699768066 
+<PATH> physical_object <-isa- manufactured_object -isa-> entity
+no 11: score = -5.222232341766357 
+<PATH> body_location_or_region -conceptual_part_of-> fully_formed_anatomical_structure -location_of-> pathologic_function
+no 12: score = -6.134735107421875 
+<PATH> neuroreactive_substance_or_biogenic_amine -complicates-> disease_or_syndrome -affects-> genetic_function
+no 13: score = -7.180885314941406 
+<PATH> research_activity -measures-> lipid -affects-> disease_or_syndrome
+no 14: score = -6.2324137687683105 
+<PATH> laboratory_procedure -diagnoses-> pathologic_function -<null>-> pathologic_function
+no 15: score = -3.5233216285705566 
+<PATH> amino_acid_peptide_or_protein -affects-> cell_or_molecular_dysfunction -<null>-> cell_or_molecular_dysfunction
+no 16: score = -6.227834224700928 
+<PATH> acquired_abnormality <-complicates- experimental_model_of_disease -process_of-> virus
+no 17: score = -6.340947151184082 
+<PATH> diagnostic_procedure -affects-> organism_function <-manifestation_of- cell_or_molecular_dysfunction
+no 18: score = -7.259773254394531 
+<PATH> immunologic_factor -causes-> disease_or_syndrome -affects-> genetic_function
+no 19: score = -3.9702749252319336 
+<PATH> bacterium -issue_in-> occupation_or_discipline <-issue_in- biomedical_occupation_or_discipline
+no 20: score = -6.236183166503906 
+<PATH> receptor <-produces- genetic_function -<null>-> genetic_function
+no 21: score = -6.314296722412109 
+<PATH> neoplastic_process -precedes-> experimental_model_of_disease -complicates-> congenital_abnormality
+no 22: score = -6.696268081665039 
+<PATH> organ_or_tissue_function -process_of-> pathologic_function -<null>-> pathologic_function
+no 23: score = -5.993866920471191 
+<PATH> therapeutic_or_preventive_procedure <-conceptual_part_of- quantitative_concept -isa-> idea_or_concept
+no 24: score = -7.572052955627441 
+<PATH> experimental_model_of_disease -co-occurs_with-> pathologic_function -result_of-> environmental_effect_of_humans
+no 25: score = -3.7782344818115234 
+<PATH> therapeutic_or_preventive_procedure <-method_of- machine_activity -issue_in-> biomedical_occupation_or_discipline
+no 26: score = -6.138612747192383 
+<PATH> eicosanoid -affects-> genetic_function <-manifestation_of- disease_or_syndrome
+no 27: score = -4.793893337249756 
+<PATH> drug_delivery_device -causes-> disease_or_syndrome -co-occurs_with-> congenital_abnormality
+no 28: score = -6.740627765655518 
+<PATH> organism_function -process_of-> experimental_model_of_disease -<null>-> experimental_model_of_disease
+no 29: score = -6.172433376312256 
+<PATH> mental_or_behavioral_dysfunction -co-occurs_with-> neoplastic_process -produces-> enzyme
+no 30: score = -4.5981340408325195 
+<PATH> manufactured_object <-isa- medical_device -prevents-> neoplastic_process
+no 31: score = -5.456322193145752 
+<PATH> chemical_viewed_structurally -causes-> pathologic_function <-causes- immunologic_factor
+no 32: score = -6.7611212730407715 
+<PATH> cell_function -process_of-> pathologic_function -process_of-> animal
+no 33: score = -5.438636779785156 
+<PATH> physiologic_function -process_of-> experimental_model_of_disease -process_of-> amphibian
+no 34: score = -7.14738655090332 
+<PATH> natural_phenomenon_or_process <-isa- pathologic_function -<null>-> pathologic_function
+no 35: score = -5.857487201690674 
+<PATH> vitamin <-produces- cell_or_molecular_dysfunction -complicates-> congenital_abnormality
+no 36: score = -4.976887226104736 
+<PATH> gene_or_genome -location_of-> anatomical_abnormality -part_of-> plant
+no 37: score = -7.152653694152832 
+<PATH> disease_or_syndrome -precedes-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 38: score = -7.426011562347412 
+<PATH> disease_or_syndrome -process_of-> experimental_model_of_disease -process_of-> organ_or_tissue_function
+no 39: score = -3.4893417358398438 
+<PATH> patient_or_disabled_group <-manages- health_care_related_organization -carries_out-> occupational_activity
+no 40: score = -6.184848785400391 
+<PATH> organism_attribute -result_of-> phenomenon_or_process -result_of-> experimental_model_of_disease
+no 41: score = -6.406173229217529 
+<PATH> biologically_active_substance <-produces- pathologic_function <-process_of- molecular_function
+no 42: score = -5.8018574714660645 
+<PATH> embryonic_structure <-disrupts- vitamin -complicates-> mental_or_behavioral_dysfunction
+no 43: score = -6.566700458526611 
+<PATH> vitamin <-produces- neoplastic_process -result_of-> natural_phenomenon_or_process
+no 44: score = -5.505551815032959 
+<PATH> medical_device -<null>-> medical_device -prevents-> mental_or_behavioral_dysfunction
+no 45: score = -5.108417510986328 
+<PATH> research_activity -measures-> lipid -interacts_with-> steroid
+no 46: score = -5.346271514892578 
+<PATH> drug_delivery_device -causes-> pathologic_function -co-occurs_with-> acquired_abnormality
+no 47: score = -5.77060604095459 
+<PATH> organism <-isa- animal -isa-> physical_object
+no 48: score = -6.557518005371094 
+<PATH> molecular_function -process_of-> pathologic_function -process_of-> fungus
+no 49: score = -7.310267925262451 
+<PATH> physiologic_function -process_of-> experimental_model_of_disease -co-occurs_with-> congenital_abnormality
+no 50: score = -6.227363586425781 
+<PATH> antibiotic -causes-> disease_or_syndrome -co-occurs_with-> pathologic_function
+no 51: score = -5.505551815032959 
+<PATH> medical_device -<null>-> medical_device -prevents-> mental_or_behavioral_dysfunction
+no 52: score = -5.761754512786865 
+<PATH> nucleic_acid_nucleoside_or_nucleotide -causes-> experimental_model_of_disease -result_of-> molecular_function
+no 53: score = -7.476946830749512 
+<PATH> cell_or_molecular_dysfunction -process_of-> pathologic_function <-isa- disease_or_syndrome
+no 54: score = -6.150726318359375 
+<PATH> chemical -causes-> mental_or_behavioral_dysfunction -affects-> genetic_function
+no 55: score = -5.6480560302734375 
+<PATH> nucleic_acid_nucleoside_or_nucleotide <-analyzes- laboratory_procedure -analyzes-> antibiotic
+no 56: score = -5.234430313110352 
+<PATH> plant <-part_of- congenital_abnormality -part_of-> reptile
+no 57: score = -5.74553108215332 
+<PATH> organic_chemical -affects-> experimental_model_of_disease <-affects- biomedical_or_dental_material
+no 58: score = -5.438436031341553 
+<PATH> experimental_model_of_disease -affects-> mental_or_behavioral_dysfunction -associated_with-> clinical_attribute
+no 59: score = -5.917804718017578 
+<PATH> congenital_abnormality -co-occurs_with-> acquired_abnormality -part_of-> virus
+no 60: score = -5.8371686935424805 
+<PATH> gene_or_genome -affects-> mental_process -affects-> virus
+no 61: score = -4.726609230041504 
+<PATH> body_part_organ_or_organ_component -location_of-> disease_or_syndrome -affects-> fungus
+no 62: score = -5.142184257507324 
+<PATH> amino_acid_peptide_or_protein -causes-> pathologic_function <-process_of- biologic_function
+no 63: score = -5.72883939743042 
+<PATH> genetic_function <-process_of- pathologic_function -produces-> neuroreactive_substance_or_biogenic_amine
+no 0: score = -4.968754768371582 
+<PATH> laboratory_procedure -diagnoses-> pathologic_function <-manifestation_of- anatomical_abnormality
+no 1: score = -6.202208518981934 
+<PATH> antibiotic -diagnoses-> pathologic_function -<null>-> pathologic_function
+no 2: score = -6.227834224700928 
+<PATH> acquired_abnormality <-complicates- experimental_model_of_disease -process_of-> virus
+no 3: score = -3.888646125793457 
+<PATH> professional_or_occupational_group <-property_of- group_attribute -isa-> entity
+no 4: score = -4.719741344451904 
+<PATH> sign_or_symptom -diagnoses-> acquired_abnormality -<null>-> acquired_abnormality
+no 5: score = -4.888681411743164 
+<PATH> enzyme -causes-> mental_or_behavioral_dysfunction <-location_of- congenital_abnormality
+no 6: score = -6.743380546569824 
+<PATH> genetic_function -process_of-> pathologic_function -process_of-> organ_or_tissue_function
+no 7: score = -5.857487201690674 
+<PATH> vitamin <-produces- cell_or_molecular_dysfunction -complicates-> congenital_abnormality
+no 8: score = -5.4389543533325195 
+<PATH> clinical_attribute -measurement_of-> mental_process -co-occurs_with-> organ_or_tissue_function
+no 9: score = -5.8018574714660645 
+<PATH> embryonic_structure <-disrupts- vitamin -complicates-> mental_or_behavioral_dysfunction
+no 10: score = -6.312950611114502 
+<PATH> injury_or_poisoning <-result_of- experimental_model_of_disease -<null>-> experimental_model_of_disease
+no 11: score = -6.255241394042969 
+<PATH> chemical_viewed_structurally -causes-> experimental_model_of_disease <-process_of- biologic_function
+no 12: score = -7.229919910430908 
+<PATH> cell_function -process_of-> neoplastic_process -associated_with-> clinical_attribute
+no 13: score = -6.273820877075195 
+<PATH> mental_process -process_of-> neoplastic_process -affects-> invertebrate
+no 14: score = -5.686194896697998 
+<PATH> biologic_function -process_of-> mental_or_behavioral_dysfunction <-causes- virus
+no 15: score = -5.410721778869629 
+<PATH> diagnostic_procedure -associated_with-> experimental_model_of_disease <-causes- indicator_reagent_or_diagnostic_aid
+no 16: score = -6.4901533126831055 
+<PATH> experimental_model_of_disease -process_of-> pathologic_function -process_of-> amphibian
+no 17: score = -5.304168701171875 
+<PATH> virus <-process_of- neoplastic_process <-causes- receptor
+no 18: score = -3.4988272190093994 
+<PATH> qualitative_concept -issue_in-> biomedical_occupation_or_discipline <-method_of- health_care_activity
+no 19: score = -7.229919910430908 
+<PATH> cell_function -process_of-> neoplastic_process -associated_with-> clinical_attribute
+no 20: score = -7.3223114013671875 
+<PATH> mental_or_behavioral_dysfunction -process_of-> experimental_model_of_disease -complicates-> cell_or_molecular_dysfunction
+no 21: score = -6.468495845794678 
+<PATH> mental_process -process_of-> pathologic_function -result_of-> organ_or_tissue_function
+no 22: score = -6.370673179626465 
+<PATH> organ_or_tissue_function -result_of-> environmental_effect_of_humans <-result_of- organ_or_tissue_function
+no 23: score = -5.384548664093018 
+<PATH> neoplastic_process -degree_of-> cell_or_molecular_dysfunction -<null>-> cell_or_molecular_dysfunction
+no 24: score = -6.481375694274902 
+<PATH> disease_or_syndrome -precedes-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 25: score = -3.973604440689087 
+<PATH> patient_or_disabled_group <-interacts_with- age_group -uses-> medical_device
+no 26: score = -5.9416022300720215 
+<PATH> antibiotic <-analyzes- laboratory_procedure -analyzes-> immunologic_factor
+no 27: score = -6.864950180053711 
+<PATH> disease_or_syndrome -process_of-> neoplastic_process -<null>-> neoplastic_process
+no 28: score = -6.7611212730407715 
+<PATH> cell_function -process_of-> pathologic_function -process_of-> animal
+no 29: score = -5.633269309997559 
+<PATH> organism_attribute -measurement_of-> cell_function -<null>-> cell_function
+no 30: score = -4.128051280975342 
+<PATH> alga -issue_in-> occupation_or_discipline <-issue_in- biomedical_occupation_or_discipline
+no 31: score = -3.66546368598938 
+<PATH> professional_society -location_of-> occupational_activity -issue_in-> biomedical_occupation_or_discipline
+no 32: score = -5.638941287994385 
+<PATH> phenomenon_or_process -<null>-> phenomenon_or_process <-isa- organism_function
+no 33: score = -6.150726318359375 
+<PATH> chemical -causes-> mental_or_behavioral_dysfunction -affects-> genetic_function
+no 34: score = -6.8612494468688965 
+<PATH> laboratory_or_test_result -evaluation_of-> pathologic_function <-isa- experimental_model_of_disease
+no 35: score = -5.680128574371338 
+<PATH> congenital_abnormality -affects-> physiologic_function -process_of-> animal
+no 36: score = -4.464531898498535 
+<PATH> daily_or_recreational_activity <-performs- professional_or_occupational_group <-occurs_in- experimental_model_of_disease
+no 37: score = -6.074845314025879 
+<PATH> laboratory_or_test_result -evaluation_of-> experimental_model_of_disease -produces-> enzyme
+no 38: score = -5.917804718017578 
+<PATH> congenital_abnormality -co-occurs_with-> acquired_abnormality -part_of-> virus
+no 39: score = -7.242618560791016 
+<PATH> neoplastic_process -precedes-> pathologic_function -<null>-> pathologic_function
+no 40: score = -5.962822437286377 
+<PATH> laboratory_procedure -assesses_effect_of-> cell_or_molecular_dysfunction -produces-> vitamin
+no 41: score = -7.152653694152832 
+<PATH> disease_or_syndrome -precedes-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 42: score = -4.420870780944824 
+<PATH> hormone -disrupts-> physiologic_function <-location_of- cell
+no 43: score = -6.538342475891113 
+<PATH> cell_or_molecular_dysfunction -precedes-> pathologic_function -process_of-> molecular_function
+no 44: score = -3.861947774887085 
+<PATH> age_group <-interacts_with- population_group <-affects- regulation_or_law
+no 45: score = -6.273820877075195 
+<PATH> mental_process -process_of-> neoplastic_process -affects-> invertebrate
+no 46: score = -5.707828998565674 
+<PATH> medical_device <-uses- diagnostic_procedure -diagnoses-> pathologic_function
+no 47: score = -5.638941287994385 
+<PATH> phenomenon_or_process -<null>-> phenomenon_or_process <-isa- organism_function
+no 48: score = -5.084708213806152 
+<PATH> embryonic_structure -part_of-> archaeon <-interacts_with- fungus
+no 49: score = -6.744088649749756 
+<PATH> molecular_function -process_of-> mental_or_behavioral_dysfunction -process_of-> vertebrate
+no 50: score = -6.324771881103516 
+<PATH> therapeutic_or_preventive_procedure -affects-> experimental_model_of_disease -occurs_in-> neoplastic_process
+no 51: score = -5.338617324829102 
+<PATH> lipid -causes-> experimental_model_of_disease <-causes- substance
+no 52: score = -6.3010149002075195 
+<PATH> laboratory_procedure -associated_with-> disease_or_syndrome <-affects- biomedical_or_dental_material
+no 53: score = -5.288250923156738 
+<PATH> fish <-process_of- neoplastic_process -process_of-> organism
+no 54: score = -5.233840465545654 
+<PATH> plant -interacts_with-> amphibian -isa-> physical_object
+no 55: score = -4.487387657165527 
+<PATH> gene_or_genome <-property_of- nucleotide_sequence -isa-> entity
+no 56: score = -5.201210021972656 
+<PATH> clinical_attribute -result_of-> experimental_model_of_disease <-causes- bacterium
+no 57: score = -5.410721778869629 
+<PATH> diagnostic_procedure -associated_with-> experimental_model_of_disease <-causes- indicator_reagent_or_diagnostic_aid
+no 58: score = -6.820394992828369 
+<PATH> antibiotic -complicates-> neoplastic_process -<null>-> neoplastic_process
+no 59: score = -4.673245429992676 
+<PATH> gene_or_genome -location_of-> cell_or_molecular_dysfunction -produces-> vitamin
+no 60: score = -7.257332801818848 
+<PATH> neoplastic_process -process_of-> pathologic_function -process_of-> vertebrate
+no 61: score = -7.288360595703125 
+<PATH> neoplastic_process -precedes-> pathologic_function -co-occurs_with-> acquired_abnormality
+no 62: score = -6.109525203704834 
+<PATH> diagnostic_procedure -affects-> cell_function -<null>-> cell_function
+no 63: score = -5.192676544189453 
+<PATH> bacterium <-process_of- physiologic_function -process_of-> archaeon
+no 0: score = -6.691810131072998 
+<PATH> physiologic_function -process_of-> pathologic_function -affects-> mammal
+no 1: score = -5.550484657287598 
+<PATH> hormone <-produces- pathologic_function -produces-> receptor
+no 2: score = -2.895462989807129 
+<PATH> professional_society -<null>-> professional_society -location_of-> diagnostic_procedure
+no 3: score = -5.445839881896973 
+<PATH> cell -location_of-> genetic_function -affects-> pathologic_function
+no 4: score = -4.588194370269775 
+<PATH> amino_acid_peptide_or_protein -affects-> mental_or_behavioral_dysfunction <-causes- clinical_drug
+no 5: score = -4.862645149230957 
+<PATH> human_caused_phenomenon_or_process -<null>-> human_caused_phenomenon_or_process <-result_of- pathologic_function
+no 6: score = -3.5486629009246826 
+<PATH> research_activity -method_of-> occupation_or_discipline -<null>-> occupation_or_discipline
+no 7: score = -5.476958274841309 
+<PATH> chemical_viewed_functionally -affects-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 8: score = -5.127467632293701 
+<PATH> reptile <-part_of- body_part_organ_or_organ_component -part_of-> vertebrate
+no 9: score = -6.989221572875977 
+<PATH> biologic_function <-isa- cell_or_molecular_dysfunction -process_of-> invertebrate
+no 10: score = -7.257332801818848 
+<PATH> neoplastic_process -process_of-> pathologic_function -process_of-> vertebrate
+no 11: score = -6.566700458526611 
+<PATH> vitamin <-produces- neoplastic_process -result_of-> natural_phenomenon_or_process
+no 12: score = -6.398272514343262 
+<PATH> antibiotic -causes-> mental_or_behavioral_dysfunction -occurs_in-> disease_or_syndrome
+no 13: score = -6.71153450012207 
+<PATH> acquired_abnormality -result_of-> pathologic_function -<null>-> pathologic_function
+no 14: score = -5.07499885559082 
+<PATH> pharmacologic_substance -interacts_with-> enzyme -isa-> chemical
+no 15: score = -3.476015090942383 
+<PATH> age_group <-property_of- group_attribute <-associated_with- social_behavior
+no 16: score = -6.203985214233398 
+<PATH> organism_function -process_of-> pathologic_function -process_of-> biologic_function
+no 17: score = -3.7168993949890137 
+<PATH> professional_or_occupational_group -manages-> professional_society -carries_out-> health_care_activity
+no 18: score = -7.122481822967529 
+<PATH> experimental_model_of_disease -affects-> cell_or_molecular_dysfunction -result_of-> phenomenon_or_process
+no 19: score = -7.509389877319336 
+<PATH> neoplastic_process -co-occurs_with-> experimental_model_of_disease -process_of-> bird
+no 20: score = -4.643360137939453 
+<PATH> acquired_abnormality <-co-occurs_with- disease_or_syndrome -<null>-> disease_or_syndrome
+no 21: score = -3.0905582904815674 
+<PATH> event <-isa- machine_activity -issue_in-> biomedical_occupation_or_discipline
+no 22: score = -6.112151145935059 
+<PATH> mental_or_behavioral_dysfunction -precedes-> pathologic_function -occurs_in-> family_group
+no 23: score = -5.47037410736084 
+<PATH> indicator_reagent_or_diagnostic_aid -causes-> experimental_model_of_disease -result_of-> genetic_function
+no 24: score = -7.38746452331543 
+<PATH> mental_or_behavioral_dysfunction -affects-> experimental_model_of_disease -complicates-> neoplastic_process
+no 25: score = -3.543076992034912 
+<PATH> health_care_activity -issue_in-> occupation_or_discipline -<null>-> occupation_or_discipline
+no 26: score = -5.362680435180664 
+<PATH> element_ion_or_isotope -causes-> experimental_model_of_disease -process_of-> molecular_function
+no 27: score = -5.234430313110352 
+<PATH> plant <-part_of- congenital_abnormality -part_of-> reptile
+no 28: score = -3.5560107231140137 
+<PATH> patient_or_disabled_group -performs-> machine_activity -issue_in-> occupation_or_discipline
+no 29: score = -2.8877124786376953 
+<PATH> self_help_or_relief_organization -isa-> organization -carries_out-> occupational_activity
+no 30: score = -5.108417510986328 
+<PATH> research_activity -measures-> lipid -interacts_with-> steroid
+no 31: score = -5.754666805267334 
+<PATH> acquired_abnormality <-complicates- experimental_model_of_disease -process_of-> rickettsia_or_chlamydia
+no 32: score = -6.118216037750244 
+<PATH> receptor -affects-> mental_or_behavioral_dysfunction -result_of-> cell_function
+no 33: score = -4.439907550811768 
+<PATH> nucleic_acid_nucleoside_or_nucleotide -causes-> disease_or_syndrome -manifestation_of-> injury_or_poisoning
+no 34: score = -7.0361433029174805 
+<PATH> cell_or_molecular_dysfunction -process_of-> pathologic_function <-process_of- organism_function
+no 35: score = -6.184848785400391 
+<PATH> organism_attribute -result_of-> phenomenon_or_process -result_of-> experimental_model_of_disease
+no 36: score = -7.446136474609375 
+<PATH> pathologic_function -process_of-> experimental_model_of_disease -process_of-> animal
+no 37: score = -2.9753339290618896 
+<PATH> professional_society -<null>-> professional_society -carries_out-> therapeutic_or_preventive_procedure
+no 38: score = -5.526760101318359 
+<PATH> hazardous_or_poisonous_substance -affects-> mental_process <-location_of- embryonic_structure
+no 39: score = -3.9391727447509766 
+<PATH> animal <-process_of- mental_process <-manifestation_of- social_behavior
+no 40: score = -7.06500244140625 
+<PATH> biologic_function <-result_of- environmental_effect_of_humans <-result_of- neoplastic_process
+no 41: score = -7.446136474609375 
+<PATH> pathologic_function -process_of-> experimental_model_of_disease -process_of-> animal
+no 42: score = -6.109525203704834 
+<PATH> diagnostic_procedure -affects-> cell_function -<null>-> cell_function
+no 43: score = -6.977142810821533 
+<PATH> molecular_function -precedes-> physiologic_function -process_of-> cell_function
+no 44: score = -3.835057020187378 
+<PATH> family_group -interacts_with-> patient_or_disabled_group -uses-> medical_device
+no 45: score = -3.9282288551330566 
+<PATH> group <-isa- family_group -performs-> machine_activity
+no 46: score = -4.968754768371582 
+<PATH> laboratory_procedure -diagnoses-> pathologic_function <-manifestation_of- anatomical_abnormality
+no 47: score = -6.76102352142334 
+<PATH> neoplastic_process -complicates-> pathologic_function -co-occurs_with-> congenital_abnormality
+no 48: score = -6.2324137687683105 
+<PATH> laboratory_procedure -diagnoses-> pathologic_function -<null>-> pathologic_function
+no 49: score = -6.870872974395752 
+<PATH> anatomical_abnormality -result_of-> phenomenon_or_process -result_of-> cell_function
+no 50: score = -5.222232341766357 
+<PATH> body_location_or_region -conceptual_part_of-> fully_formed_anatomical_structure -location_of-> pathologic_function
+no 51: score = -5.108417510986328 
+<PATH> research_activity -measures-> lipid -interacts_with-> steroid
+no 52: score = -5.633528709411621 
+<PATH> invertebrate <-affects- experimental_model_of_disease -<null>-> experimental_model_of_disease
+no 53: score = -5.962822437286377 
+<PATH> laboratory_procedure -assesses_effect_of-> cell_or_molecular_dysfunction -produces-> vitamin
+no 54: score = -7.426011562347412 
+<PATH> disease_or_syndrome -process_of-> experimental_model_of_disease -process_of-> organ_or_tissue_function
+no 55: score = -7.446136474609375 
+<PATH> pathologic_function -process_of-> experimental_model_of_disease -process_of-> animal
+no 56: score = -3.9521193504333496 
+<PATH> tissue -conceptual_part_of-> body_system -issue_in-> occupation_or_discipline
+no 57: score = -6.989221572875977 
+<PATH> biologic_function <-isa- cell_or_molecular_dysfunction -process_of-> invertebrate
+no 58: score = -5.580615997314453 
+<PATH> anatomical_abnormality <-isa- congenital_abnormality -part_of-> plant
+no 59: score = -5.222232341766357 
+<PATH> body_location_or_region -conceptual_part_of-> fully_formed_anatomical_structure -location_of-> pathologic_function
+no 60: score = -5.70775032043457 
+<PATH> medical_device <-uses- diagnostic_procedure -diagnoses-> pathologic_function
+no 61: score = -6.184848785400391 
+<PATH> organism_attribute -result_of-> phenomenon_or_process -result_of-> experimental_model_of_disease
+no 62: score = -5.8371686935424805 
+<PATH> gene_or_genome -affects-> mental_process -affects-> virus
+no 63: score = -4.976887226104736 
+<PATH> gene_or_genome -location_of-> anatomical_abnormality -part_of-> plant
+no 0: score = -5.455026626586914 
+<PATH> tissue <-produces- disease_or_syndrome -produces-> biologically_active_substance
+no 1: score = -5.6098456382751465 
+<PATH> laboratory_or_test_result -evaluation_of-> neoplastic_process -<null>-> neoplastic_process
+no 2: score = -6.280118942260742 
+<PATH> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction -manifestation_of-> injury_or_poisoning
+no 3: score = -6.758944034576416 
+<PATH> biologically_active_substance -complicates-> genetic_function -affects-> experimental_model_of_disease
+no 4: score = -3.460742950439453 
+<PATH> therapeutic_or_preventive_procedure <-method_of- machine_activity -issue_in-> biomedical_occupation_or_discipline
+no 5: score = -4.189734935760498 
+<PATH> quantitative_concept -measurement_of-> nucleotide_sequence -result_of-> mental_process
+no 6: score = -3.888646125793457 
+<PATH> professional_or_occupational_group <-property_of- group_attribute -isa-> entity
+no 7: score = -5.320351600646973 
+<PATH> gene_or_genome -location_of-> organ_or_tissue_function -<null>-> organ_or_tissue_function
+no 8: score = -6.138612747192383 
+<PATH> eicosanoid -affects-> genetic_function <-manifestation_of- disease_or_syndrome
+no 9: score = -7.259773254394531 
+<PATH> immunologic_factor -causes-> disease_or_syndrome -affects-> genetic_function
+no 10: score = -4.976887226104736 
+<PATH> gene_or_genome -location_of-> anatomical_abnormality -part_of-> plant
+no 11: score = -6.8612494468688965 
+<PATH> laboratory_or_test_result -evaluation_of-> pathologic_function <-isa- experimental_model_of_disease
+no 12: score = -6.112151145935059 
+<PATH> mental_or_behavioral_dysfunction -precedes-> pathologic_function -occurs_in-> family_group
+no 13: score = -4.5263991355896 
+<PATH> therapeutic_or_preventive_procedure -complicates-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 14: score = -4.632367134094238 
+<PATH> population_group <-property_of- group_attribute -property_of-> group
+no 15: score = -5.222232341766357 
+<PATH> body_location_or_region -conceptual_part_of-> fully_formed_anatomical_structure -location_of-> pathologic_function
+no 16: score = -4.189734935760498 
+<PATH> quantitative_concept -measurement_of-> nucleotide_sequence -result_of-> mental_process
+no 17: score = -6.517123699188232 
+<PATH> laboratory_procedure -isa-> occupational_activity -isa-> activity
+no 18: score = -5.977202415466309 
+<PATH> diagnostic_procedure -associated_with-> cell_or_molecular_dysfunction <-causes- organophosphorus_compound
+no 19: score = -3.584913730621338 
+<PATH> gene_or_genome <-property_of- nucleotide_sequence -issue_in-> occupation_or_discipline
+no 20: score = -7.44196891784668 
+<PATH> organ_or_tissue_function -process_of-> experimental_model_of_disease -occurs_in-> neoplastic_process
+no 21: score = -3.119194984436035 
+<PATH> geographic_area -isa-> spatial_concept -isa-> idea_or_concept
+no 22: score = -6.660152435302734 
+<PATH> neuroreactive_substance_or_biogenic_amine -disrupts-> organism_function -result_of-> disease_or_syndrome
+no 23: score = -5.351349353790283 
+<PATH> biologically_active_substance -interacts_with-> vitamin -isa-> chemical
+no 24: score = -5.217283248901367 
+<PATH> enzyme <-produces- cell_function -<null>-> cell_function
+no 25: score = -5.304168701171875 
+<PATH> virus <-process_of- neoplastic_process <-causes- receptor
+no 26: score = -4.276481628417969 
+<PATH> professional_or_occupational_group -diagnoses-> disease_or_syndrome <-causes- manufactured_object
+no 27: score = -7.572052955627441 
+<PATH> experimental_model_of_disease -co-occurs_with-> pathologic_function -result_of-> environmental_effect_of_humans
+no 28: score = -5.887819290161133 
+<PATH> indicator_reagent_or_diagnostic_aid <-assesses_effect_of- laboratory_procedure -diagnoses-> neoplastic_process
+no 29: score = -5.5202789306640625 
+<PATH> sign_or_symptom -manifestation_of-> experimental_model_of_disease -result_of-> biologic_function
+no 30: score = -5.438636779785156 
+<PATH> physiologic_function -process_of-> experimental_model_of_disease -process_of-> amphibian
+no 31: score = -3.3565404415130615 
+<PATH> classification <-produces- health_care_related_organization -issue_in-> biomedical_occupation_or_discipline
+no 32: score = -6.446491241455078 
+<PATH> organism_function <-process_of- pathologic_function <-causes- vitamin
+no 33: score = -6.074845314025879 
+<PATH> laboratory_or_test_result -evaluation_of-> experimental_model_of_disease -produces-> enzyme
+no 34: score = -4.675205230712891 
+<PATH> immunologic_factor -disrupts-> physiologic_function <-location_of- body_part_organ_or_organ_component
+no 35: score = -3.6693153381347656 
+<PATH> health_care_activity -method_of-> biomedical_occupation_or_discipline -<null>-> biomedical_occupation_or_discipline
+no 36: score = -5.444845199584961 
+<PATH> carbohydrate <-produces- body_part_organ_or_organ_component -produces-> immunologic_factor
+no 37: score = -7.288360595703125 
+<PATH> neoplastic_process -precedes-> pathologic_function -co-occurs_with-> acquired_abnormality
+no 38: score = -7.267804145812988 
+<PATH> mental_or_behavioral_dysfunction -co-occurs_with-> neoplastic_process -<null>-> neoplastic_process
+no 39: score = -6.0125322341918945 
+<PATH> cell_component <-produces- genetic_function <-affects- congenital_abnormality
+no 40: score = -3.9275779724121094 
+<PATH> organophosphorus_compound -issue_in-> biomedical_occupation_or_discipline <-issue_in- occupation_or_discipline
+no 41: score = -6.0125322341918945 
+<PATH> cell_component <-produces- genetic_function <-affects- congenital_abnormality
+no 42: score = -4.775355339050293 
+<PATH> lipid -interacts_with-> immunologic_factor -complicates-> congenital_abnormality
+no 43: score = -7.572052955627441 
+<PATH> experimental_model_of_disease -co-occurs_with-> pathologic_function -result_of-> environmental_effect_of_humans
+no 44: score = -6.870872974395752 
+<PATH> anatomical_abnormality -result_of-> phenomenon_or_process -result_of-> cell_function
+no 45: score = -7.017762184143066 
+<PATH> cell_function -precedes-> mental_process -affects-> natural_phenomenon_or_process
+no 46: score = -6.71153450012207 
+<PATH> acquired_abnormality -result_of-> pathologic_function -<null>-> pathologic_function
+no 47: score = -5.354911804199219 
+<PATH> laboratory_or_test_result -evaluation_of-> disease_or_syndrome <-result_of- anatomical_abnormality
+no 48: score = -5.656450271606445 
+<PATH> mental_process <-process_of- pathologic_function <-causes- biologically_active_substance
+no 49: score = -4.082785129547119 
+<PATH> mammal -exhibits-> social_behavior -isa-> behavior
+no 50: score = -4.464531898498535 
+<PATH> daily_or_recreational_activity <-performs- professional_or_occupational_group <-occurs_in- experimental_model_of_disease
+no 51: score = -4.5630903244018555 
+<PATH> clinical_drug <-ingredient_of- immunologic_factor -causes-> injury_or_poisoning
+no 52: score = -5.518063545227051 
+<PATH> research_activity -measures-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 53: score = -7.476946830749512 
+<PATH> cell_or_molecular_dysfunction -process_of-> pathologic_function <-isa- disease_or_syndrome
+no 54: score = -4.106098651885986 
+<PATH> body_part_organ_or_organ_component -isa-> anatomical_structure -part_of-> invertebrate
+no 55: score = -5.346271514892578 
+<PATH> drug_delivery_device -causes-> pathologic_function -co-occurs_with-> acquired_abnormality
+no 56: score = -6.660152435302734 
+<PATH> neuroreactive_substance_or_biogenic_amine -disrupts-> organism_function -result_of-> disease_or_syndrome
+no 57: score = -4.904594898223877 
+<PATH> vertebrate <-interacts_with- animal -isa-> physical_object
+no 58: score = -7.572052955627441 
+<PATH> experimental_model_of_disease -co-occurs_with-> pathologic_function -result_of-> environmental_effect_of_humans
+no 59: score = -5.065234184265137 
+<PATH> drug_delivery_device -isa-> manufactured_object -isa-> entity
+no 60: score = -4.937248229980469 
+<PATH> therapeutic_or_preventive_procedure -complicates-> cell_or_molecular_dysfunction <-causes- clinical_drug
+no 61: score = -4.129561424255371 
+<PATH> enzyme -causes-> cell_or_molecular_dysfunction -<null>-> cell_or_molecular_dysfunction
+no 62: score = -5.410721778869629 
+<PATH> diagnostic_procedure -associated_with-> experimental_model_of_disease <-causes- indicator_reagent_or_diagnostic_aid
+no 63: score = -4.343996047973633 
+<PATH> amphibian <-process_of- mental_or_behavioral_dysfunction <-manifestation_of- social_behavior
+no 0: score = -7.3223114013671875 
+<PATH> mental_or_behavioral_dysfunction -process_of-> experimental_model_of_disease -complicates-> cell_or_molecular_dysfunction
+no 1: score = -6.161670684814453 
+<PATH> laboratory_procedure -measures-> mental_or_behavioral_dysfunction -manifestation_of-> cell_or_molecular_dysfunction
+no 2: score = -5.612631797790527 
+<PATH> therapeutic_or_preventive_procedure <-result_of- pathologic_function -<null>-> pathologic_function
+no 3: score = -5.102408409118652 
+<PATH> steroid -affects-> experimental_model_of_disease <-causes- hormone
+no 4: score = -6.691810131072998 
+<PATH> physiologic_function -process_of-> pathologic_function -affects-> mammal
+no 5: score = -3.9934375286102295 
+<PATH> biomedical_occupation_or_discipline <-issue_in- carbohydrate_sequence -isa-> conceptual_entity
+no 6: score = -5.962822437286377 
+<PATH> laboratory_procedure -assesses_effect_of-> cell_or_molecular_dysfunction -produces-> vitamin
+no 7: score = -5.20334529876709 
+<PATH> eicosanoid -causes-> experimental_model_of_disease <-causes- receptor
+no 8: score = -3.964866876602173 
+<PATH> age_group <-property_of- group_attribute <-associated_with- social_behavior
+no 9: score = -5.369917392730713 
+<PATH> element_ion_or_isotope -causes-> congenital_abnormality <-complicates- enzyme
+no 10: score = -5.526684761047363 
+<PATH> hazardous_or_poisonous_substance -affects-> mental_process <-location_of- embryonic_structure
+no 11: score = -6.088871002197266 
+<PATH> congenital_abnormality <-result_of- environmental_effect_of_humans -result_of-> congenital_abnormality
+no 12: score = -5.6677093505859375 
+<PATH> organophosphorus_compound -causes-> disease_or_syndrome <-causes- neuroreactive_substance_or_biogenic_amine
+no 13: score = -5.326166152954102 
+<PATH> anatomical_abnormality <-isa- congenital_abnormality -part_of-> animal
+no 14: score = -4.5630903244018555 
+<PATH> clinical_drug <-ingredient_of- immunologic_factor -causes-> injury_or_poisoning
+no 15: score = -3.6771130561828613 
+<PATH> body_space_or_junction -isa-> spatial_concept -issue_in-> occupation_or_discipline
+no 16: score = -5.682226181030273 
+<PATH> therapeutic_or_preventive_procedure <-result_of- disease_or_syndrome -<null>-> disease_or_syndrome
+no 17: score = -4.450634956359863 
+<PATH> health_care_activity -affects-> disease_or_syndrome -manifestation_of-> injury_or_poisoning
+no 18: score = -6.747910499572754 
+<PATH> molecular_function -precedes-> mental_process -process_of-> organism_function
+no 19: score = -3.001275062561035 
+<PATH> health_care_related_organization -<null>-> health_care_related_organization -location_of-> research_activity
+no 20: score = -6.7611212730407715 
+<PATH> cell_function -process_of-> pathologic_function -process_of-> animal
+no 21: score = -7.257332801818848 
+<PATH> neoplastic_process -process_of-> pathologic_function -process_of-> vertebrate
+no 22: score = -6.340947151184082 
+<PATH> diagnostic_procedure -affects-> organism_function <-manifestation_of- cell_or_molecular_dysfunction
+no 23: score = -3.8838396072387695 
+<PATH> diagnostic_procedure <-method_of- machine_activity -issue_in-> occupation_or_discipline
+no 24: score = -3.429187059402466 
+<PATH> governmental_or_regulatory_activity -issue_in-> biomedical_occupation_or_discipline -<null>-> biomedical_occupation_or_discipline
+no 25: score = -6.8612494468688965 
+<PATH> laboratory_or_test_result -evaluation_of-> pathologic_function <-isa- experimental_model_of_disease
+no 26: score = -4.158361434936523 
+<PATH> professional_or_occupational_group -interacts_with-> patient_or_disabled_group -uses-> regulation_or_law
+no 27: score = -6.074845314025879 
+<PATH> laboratory_or_test_result -evaluation_of-> experimental_model_of_disease -produces-> enzyme
+no 28: score = -6.372402667999268 
+<PATH> pharmacologic_substance -affects-> physiologic_function <-process_of- experimental_model_of_disease
+no 29: score = -6.118216037750244 
+<PATH> receptor -affects-> mental_or_behavioral_dysfunction -result_of-> cell_function
+no 30: score = -5.459536552429199 
+<PATH> neuroreactive_substance_or_biogenic_amine <-produces- pathologic_function -<null>-> pathologic_function
+no 31: score = -5.20351505279541 
+<PATH> body_part_organ_or_organ_component -isa-> fully_formed_anatomical_structure <-disrupts- vitamin
+no 32: score = -6.235712051391602 
+<PATH> hormone -causes-> experimental_model_of_disease <-process_of- genetic_function
+no 33: score = -6.194033622741699 
+<PATH> fully_formed_anatomical_structure -location_of-> biologic_function <-process_of- disease_or_syndrome
+no 34: score = -6.118216037750244 
+<PATH> receptor -affects-> mental_or_behavioral_dysfunction -result_of-> cell_function
+no 35: score = -5.108417510986328 
+<PATH> research_activity -measures-> lipid -interacts_with-> steroid
+no 36: score = -6.227578163146973 
+<PATH> finding <-isa- sign_or_symptom -associated_with-> disease_or_syndrome
+no 37: score = -7.23612642288208 
+<PATH> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 38: score = -5.807334899902344 
+<PATH> health_care_activity <-isa- diagnostic_procedure -measures-> cell_or_molecular_dysfunction
+no 39: score = -5.9416022300720215 
+<PATH> antibiotic <-analyzes- laboratory_procedure -analyzes-> immunologic_factor
+no 40: score = -5.533793926239014 
+<PATH> disease_or_syndrome -associated_with-> neoplastic_process -produces-> body_substance
+no 41: score = -6.109525203704834 
+<PATH> diagnostic_procedure -affects-> cell_function -<null>-> cell_function
+no 42: score = -6.150726318359375 
+<PATH> chemical -causes-> mental_or_behavioral_dysfunction -affects-> genetic_function
+no 43: score = -5.108417510986328 
+<PATH> research_activity -measures-> lipid -interacts_with-> steroid
+no 44: score = -4.371698379516602 
+<PATH> body_part_organ_or_organ_component -interconnects-> body_space_or_junction -conceptual_part_of-> body_system
+no 45: score = -7.426011562347412 
+<PATH> disease_or_syndrome -process_of-> experimental_model_of_disease -process_of-> organ_or_tissue_function
+no 46: score = -5.072531223297119 
+<PATH> chemical -affects-> disease_or_syndrome -<null>-> disease_or_syndrome
+no 47: score = -6.4385833740234375 
+<PATH> organism_function <-process_of- pathologic_function -<null>-> pathologic_function
+no 48: score = -6.728571891784668 
+<PATH> cell_or_molecular_dysfunction <-causes- drug_delivery_device <-produces- age_group
+no 49: score = -7.446136474609375 
+<PATH> pathologic_function -process_of-> experimental_model_of_disease -process_of-> animal
+no 50: score = -5.857216835021973 
+<PATH> molecular_function -affects-> mental_process -result_of-> phenomenon_or_process
+no 51: score = -5.962822437286377 
+<PATH> laboratory_procedure -assesses_effect_of-> cell_or_molecular_dysfunction -produces-> vitamin
+no 52: score = -4.363216400146484 
+<PATH> governmental_or_regulatory_activity -associated_with-> acquired_abnormality -manifestation_of-> disease_or_syndrome
+no 53: score = -6.528072357177734 
+<PATH> mental_process -process_of-> neoplastic_process <-affects- biologic_function
+no 54: score = -5.455026626586914 
+<PATH> tissue <-produces- disease_or_syndrome -produces-> biologically_active_substance
+no 55: score = -4.976887226104736 
+<PATH> gene_or_genome -location_of-> anatomical_abnormality -part_of-> plant
+no 56: score = -7.1394219398498535 
+<PATH> mental_or_behavioral_dysfunction -process_of-> pathologic_function -process_of-> organ_or_tissue_function
+no 57: score = -5.911764144897461 
+<PATH> immunologic_factor -indicates-> cell_or_molecular_dysfunction <-manifestation_of- congenital_abnormality
+no 58: score = -5.382573127746582 
+<PATH> antibiotic -causes-> experimental_model_of_disease -complicates-> congenital_abnormality
+no 59: score = -6.063554286956787 
+<PATH> eicosanoid -isa-> substance <-isa- chemical_viewed_functionally
+no 60: score = -5.459536552429199 
+<PATH> neuroreactive_substance_or_biogenic_amine <-produces- pathologic_function -<null>-> pathologic_function
+no 61: score = -5.382573127746582 
+<PATH> antibiotic -causes-> experimental_model_of_disease -complicates-> congenital_abnormality
+no 62: score = -5.754666805267334 
+<PATH> acquired_abnormality <-complicates- experimental_model_of_disease -process_of-> rickettsia_or_chlamydia
+no 63: score = -7.3223114013671875 
+<PATH> mental_or_behavioral_dysfunction -process_of-> experimental_model_of_disease -complicates-> cell_or_molecular_dysfunction
+no 0: score = -3.362330913543701 
+<PATH> professional_or_occupational_group <-property_of- group_attribute <-associated_with- individual_behavior
+no 1: score = -6.0125322341918945 
+<PATH> cell_component <-produces- genetic_function <-affects- congenital_abnormality
+no 2: score = -5.527755260467529 
+<PATH> hazardous_or_poisonous_substance -isa-> substance <-isa- chemical_viewed_functionally
+no 3: score = -7.4063920974731445 
+<PATH> cell_function -result_of-> human_caused_phenomenon_or_process -result_of-> disease_or_syndrome
+no 4: score = -4.163036823272705 
+<PATH> element_ion_or_isotope -affects-> mental_or_behavioral_dysfunction <-causes- clinical_drug
+no 5: score = -6.227834224700928 
+<PATH> acquired_abnormality <-complicates- experimental_model_of_disease -process_of-> virus
+no 6: score = -3.8883562088012695 
+<PATH> group <-isa- patient_or_disabled_group -uses-> classification
+no 7: score = -5.74553108215332 
+<PATH> organic_chemical -affects-> experimental_model_of_disease <-affects- biomedical_or_dental_material
+no 8: score = -4.521542549133301 
+<PATH> receptor <-interacts_with- enzyme -isa-> substance
+no 9: score = -6.406153678894043 
+<PATH> biologically_active_substance <-produces- pathologic_function <-process_of- molecular_function
+no 10: score = -7.226044178009033 
+<PATH> pathologic_function -precedes-> experimental_model_of_disease <-precedes- neoplastic_process
+no 11: score = -6.3010149002075195 
+<PATH> laboratory_procedure -associated_with-> disease_or_syndrome <-affects- biomedical_or_dental_material
+no 12: score = -5.769678115844727 
+<PATH> cell_function <-process_of- neoplastic_process -produces-> vitamin
+no 13: score = -5.94875431060791 
+<PATH> biologically_active_substance <-isa- immunologic_factor -disrupts-> gene_or_genome
+no 14: score = -4.806105613708496 
+<PATH> biologic_function <-isa- pathologic_function -produces-> receptor
+no 15: score = -4.675013542175293 
+<PATH> alga <-process_of- genetic_function <-disrupts- hormone
+no 16: score = -5.845618724822998 
+<PATH> experimental_model_of_disease -isa-> pathologic_function <-causes- biologically_active_substance
+no 17: score = -6.6447014808654785 
+<PATH> organ_or_tissue_function -precedes-> cell_function -<null>-> cell_function
+no 18: score = -5.761754512786865 
+<PATH> nucleic_acid_nucleoside_or_nucleotide -causes-> experimental_model_of_disease -result_of-> molecular_function
+no 19: score = -5.754666805267334 
+<PATH> acquired_abnormality <-complicates- experimental_model_of_disease -process_of-> rickettsia_or_chlamydia
+no 20: score = -5.70775032043457 
+<PATH> medical_device <-uses- diagnostic_procedure -diagnoses-> pathologic_function
+no 21: score = -7.509389877319336 
+<PATH> neoplastic_process -co-occurs_with-> experimental_model_of_disease -process_of-> bird
+no 22: score = -4.443201065063477 
+<PATH> geographic_area -associated_with-> acquired_abnormality -manifestation_of-> cell_or_molecular_dysfunction
+no 23: score = -5.6677093505859375 
+<PATH> organophosphorus_compound -causes-> disease_or_syndrome <-causes- neuroreactive_substance_or_biogenic_amine
+no 24: score = -7.017762184143066 
+<PATH> cell_function -precedes-> mental_process -affects-> natural_phenomenon_or_process
+no 25: score = -7.152653694152832 
+<PATH> disease_or_syndrome -precedes-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 26: score = -6.112151145935059 
+<PATH> mental_or_behavioral_dysfunction -precedes-> pathologic_function -occurs_in-> family_group
+no 27: score = -4.611503601074219 
+<PATH> injury_or_poisoning <-causes- manufactured_object <-produces- professional_or_occupational_group
+no 28: score = -5.3152756690979 
+<PATH> hazardous_or_poisonous_substance -causes-> neoplastic_process -<null>-> neoplastic_process
+no 29: score = -5.633528709411621 
+<PATH> invertebrate <-affects- experimental_model_of_disease -<null>-> experimental_model_of_disease
+no 30: score = -4.75404691696167 
+<PATH> acquired_abnormality <-causes- manufactured_object <-produces- age_group
+no 31: score = -5.74077033996582 
+<PATH> lipid -causes-> mental_or_behavioral_dysfunction <-process_of- biologic_function
+no 32: score = -6.641925811767578 
+<PATH> clinical_attribute <-associated_with- acquired_abnormality -part_of-> virus
+no 33: score = -5.74077033996582 
+<PATH> lipid -causes-> mental_or_behavioral_dysfunction <-process_of- biologic_function
+no 34: score = -5.7956318855285645 
+<PATH> invertebrate <-part_of- anatomical_structure -part_of-> reptile
+no 35: score = -4.976887226104736 
+<PATH> gene_or_genome -location_of-> anatomical_abnormality -part_of-> plant
+no 36: score = -7.44196891784668 
+<PATH> organ_or_tissue_function -process_of-> experimental_model_of_disease -occurs_in-> neoplastic_process
+no 37: score = -4.706208229064941 
+<PATH> body_substance <-produces- cell -conceptual_part_of-> body_system
+no 38: score = -5.20351505279541 
+<PATH> body_part_organ_or_organ_component -isa-> fully_formed_anatomical_structure <-disrupts- vitamin
+no 39: score = -5.444845199584961 
+<PATH> carbohydrate <-produces- body_part_organ_or_organ_component -produces-> immunologic_factor
+no 40: score = -5.326166152954102 
+<PATH> anatomical_abnormality <-isa- congenital_abnormality -part_of-> animal
+no 41: score = -7.256015777587891 
+<PATH> natural_phenomenon_or_process <-isa- disease_or_syndrome -affects-> genetic_function
+no 42: score = -5.012176036834717 
+<PATH> substance <-isa- food -affects-> neoplastic_process
+no 43: score = -5.378174781799316 
+<PATH> embryonic_structure -contains-> body_substance <-produces- cell
+no 44: score = -6.7029314041137695 
+<PATH> injury_or_poisoning -isa-> event <-isa- phenomenon_or_process
+no 45: score = -6.394598007202148 
+<PATH> diagnostic_procedure -affects-> disease_or_syndrome -co-occurs_with-> anatomical_abnormality
+no 46: score = -5.4983673095703125 
+<PATH> body_space_or_junction -result_of-> mental_process -<null>-> mental_process
+no 47: score = -7.4063920974731445 
+<PATH> cell_function -result_of-> human_caused_phenomenon_or_process -result_of-> disease_or_syndrome
+no 48: score = -6.134735107421875 
+<PATH> neuroreactive_substance_or_biogenic_amine -complicates-> disease_or_syndrome -affects-> genetic_function
+no 49: score = -7.572052955627441 
+<PATH> experimental_model_of_disease -co-occurs_with-> pathologic_function -result_of-> environmental_effect_of_humans
+no 50: score = -5.807334899902344 
+<PATH> health_care_activity <-isa- diagnostic_procedure -measures-> cell_or_molecular_dysfunction
+no 51: score = -2.895462989807129 
+<PATH> professional_society -<null>-> professional_society -location_of-> diagnostic_procedure
+no 52: score = -5.807334899902344 
+<PATH> health_care_activity <-isa- diagnostic_procedure -measures-> cell_or_molecular_dysfunction
+no 53: score = -3.6538443565368652 
+<PATH> group <-interacts_with- age_group -uses-> research_device
+no 54: score = -6.0125322341918945 
+<PATH> cell_component <-produces- genetic_function <-affects- congenital_abnormality
+no 55: score = -4.904594898223877 
+<PATH> vertebrate <-interacts_with- animal -isa-> physical_object
+no 56: score = -5.5481109619140625 
+<PATH> molecular_biology_research_technique -measures-> organic_chemical -interacts_with-> receptor
+no 57: score = -2.9258694648742676 
+<PATH> professional_society -isa-> organization -produces-> classification
+no 58: score = -1.4194777011871338 
+<PATH> amino_acid_sequence -isa-> molecular_sequence -isa-> entity
+no 59: score = -7.144754409790039 
+<PATH> genetic_function -precedes-> cell_function -co-occurs_with-> molecular_function
+no 60: score = -7.23612642288208 
+<PATH> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 61: score = -5.68625020980835 
+<PATH> biologic_function -process_of-> mental_or_behavioral_dysfunction <-causes- virus
+no 62: score = -4.36998987197876 
+<PATH> individual_behavior -associated_with-> group_attribute <-associated_with- social_behavior
+no 63: score = -7.1652326583862305 
+<PATH> pathologic_function -precedes-> experimental_model_of_disease -<null>-> experimental_model_of_disease
+no 0: score = -5.633528709411621 
+<PATH> invertebrate <-affects- experimental_model_of_disease -<null>-> experimental_model_of_disease
+no 1: score = -5.288250923156738 
+<PATH> fish <-process_of- neoplastic_process -process_of-> organism
+no 2: score = -4.596528053283691 
+<PATH> research_device -causes-> injury_or_poisoning <-occurs_in- disease_or_syndrome
+no 3: score = -2.917330026626587 
+<PATH> quantitative_concept -measurement_of-> amino_acid_sequence -issue_in-> biomedical_occupation_or_discipline
+no 4: score = -2.9753339290618896 
+<PATH> professional_society -<null>-> professional_society -carries_out-> therapeutic_or_preventive_procedure
+no 5: score = -4.173460006713867 
+<PATH> drug_delivery_device -causes-> disease_or_syndrome -<null>-> disease_or_syndrome
+no 6: score = -4.651906490325928 
+<PATH> fully_formed_anatomical_structure -isa-> anatomical_structure -part_of-> amphibian
+no 7: score = -5.005538463592529 
+<PATH> mammal <-part_of- acquired_abnormality -isa-> entity
+no 8: score = -5.20351505279541 
+<PATH> body_part_organ_or_organ_component -isa-> fully_formed_anatomical_structure <-disrupts- vitamin
+no 9: score = -6.744088649749756 
+<PATH> molecular_function -process_of-> mental_or_behavioral_dysfunction -process_of-> vertebrate
+no 10: score = -5.962822437286377 
+<PATH> laboratory_procedure -assesses_effect_of-> cell_or_molecular_dysfunction -produces-> vitamin
+no 11: score = -4.575747489929199 
+<PATH> human_caused_phenomenon_or_process <-result_of- pathologic_function -process_of-> organism
+no 12: score = -7.013660907745361 
+<PATH> experimental_model_of_disease -process_of-> pathologic_function -process_of-> vertebrate
+no 13: score = -2.895462989807129 
+<PATH> professional_society -<null>-> professional_society -location_of-> diagnostic_procedure
+no 14: score = -6.814730167388916 
+<PATH> experimental_model_of_disease -<null>-> experimental_model_of_disease <-precedes- neoplastic_process
+no 15: score = -6.4901533126831055 
+<PATH> experimental_model_of_disease -process_of-> pathologic_function -process_of-> amphibian
+no 16: score = -6.3010149002075195 
+<PATH> laboratory_procedure -associated_with-> disease_or_syndrome <-affects- biomedical_or_dental_material
+no 17: score = -4.624777793884277 
+<PATH> anatomical_abnormality <-associated_with- daily_or_recreational_activity -issue_in-> biomedical_occupation_or_discipline
+no 18: score = -6.235712051391602 
+<PATH> hormone -causes-> experimental_model_of_disease <-process_of- genetic_function
+no 19: score = -5.962822437286377 
+<PATH> laboratory_procedure -assesses_effect_of-> cell_or_molecular_dysfunction -produces-> vitamin
+no 20: score = -5.222232341766357 
+<PATH> body_location_or_region -conceptual_part_of-> fully_formed_anatomical_structure -location_of-> pathologic_function
+no 21: score = -7.152653694152832 
+<PATH> disease_or_syndrome -precedes-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 22: score = -6.3010149002075195 
+<PATH> laboratory_procedure -associated_with-> disease_or_syndrome <-affects- biomedical_or_dental_material
+no 23: score = -5.680128574371338 
+<PATH> congenital_abnormality -affects-> physiologic_function -process_of-> animal
+no 24: score = -5.315718650817871 
+<PATH> biomedical_or_dental_material -affects-> genetic_function -produces-> immunologic_factor
+no 25: score = -6.440883636474609 
+<PATH> organism_function -affects-> mental_process -isa-> natural_phenomenon_or_process
+no 26: score = -3.7294840812683105 
+<PATH> classification <-produces- self_help_or_relief_organization -isa-> conceptual_entity
+no 27: score = -7.14738655090332 
+<PATH> natural_phenomenon_or_process <-isa- pathologic_function -<null>-> pathologic_function
+no 28: score = -5.971318244934082 
+<PATH> chemical_viewed_functionally <-isa- immunologic_factor <-produces- neoplastic_process
+no 29: score = -1.7790849208831787 
+<PATH> amino_acid_sequence -isa-> molecular_sequence -result_of-> mental_process
+no 30: score = -5.201210021972656 
+<PATH> clinical_attribute -result_of-> experimental_model_of_disease <-causes- bacterium
+no 31: score = -4.082785129547119 
+<PATH> mammal -exhibits-> social_behavior -isa-> behavior
+no 32: score = -7.255993366241455 
+<PATH> natural_phenomenon_or_process <-isa- disease_or_syndrome -affects-> genetic_function
+no 33: score = -7.44196891784668 
+<PATH> organ_or_tissue_function -process_of-> experimental_model_of_disease -occurs_in-> neoplastic_process
+no 34: score = -4.860694885253906 
+<PATH> biologically_active_substance -disrupts-> mental_process -<null>-> mental_process
+no 35: score = -6.3010149002075195 
+<PATH> laboratory_procedure -associated_with-> disease_or_syndrome <-affects- biomedical_or_dental_material
+no 36: score = -5.315718650817871 
+<PATH> biomedical_or_dental_material -affects-> genetic_function -produces-> immunologic_factor
+no 37: score = -6.890531539916992 
+<PATH> neoplastic_process -affects-> mental_or_behavioral_dysfunction -associated_with-> cell_or_molecular_dysfunction
+no 38: score = -4.545478343963623 
+<PATH> qualitative_concept -isa-> entity <-isa- idea_or_concept
+no 39: score = -5.5202789306640625 
+<PATH> sign_or_symptom -manifestation_of-> experimental_model_of_disease -result_of-> biologic_function
+no 40: score = -5.731386184692383 
+<PATH> neuroreactive_substance_or_biogenic_amine <-produces- pathologic_function -produces-> receptor
+no 41: score = -5.445839881896973 
+<PATH> cell -location_of-> genetic_function -affects-> pathologic_function
+no 42: score = -5.977202415466309 
+<PATH> diagnostic_procedure -associated_with-> cell_or_molecular_dysfunction <-causes- organophosphorus_compound
+no 43: score = -5.754666805267334 
+<PATH> acquired_abnormality <-complicates- experimental_model_of_disease -process_of-> rickettsia_or_chlamydia
+no 44: score = -5.6677093505859375 
+<PATH> organophosphorus_compound -causes-> disease_or_syndrome <-causes- neuroreactive_substance_or_biogenic_amine
+no 45: score = -5.977202415466309 
+<PATH> diagnostic_procedure -associated_with-> cell_or_molecular_dysfunction <-causes- organophosphorus_compound
+no 46: score = -5.011692523956299 
+<PATH> fungus <-process_of- neoplastic_process -affects-> invertebrate
+no 47: score = -6.074845314025879 
+<PATH> laboratory_or_test_result -evaluation_of-> experimental_model_of_disease -produces-> enzyme
+no 48: score = -6.227834224700928 
+<PATH> acquired_abnormality <-complicates- experimental_model_of_disease -process_of-> virus
+no 49: score = -7.426011562347412 
+<PATH> disease_or_syndrome -process_of-> experimental_model_of_disease -process_of-> organ_or_tissue_function
+no 50: score = -1.419437050819397 
+<PATH> amino_acid_sequence -isa-> molecular_sequence -isa-> entity
+no 51: score = -6.528072357177734 
+<PATH> mental_process -process_of-> neoplastic_process <-affects- biologic_function
+no 52: score = -5.306751251220703 
+<PATH> organic_chemical -causes-> neoplastic_process <-process_of- biologic_function
+no 53: score = -5.102408409118652 
+<PATH> steroid -affects-> experimental_model_of_disease <-causes- hormone
+no 54: score = -7.52085018157959 
+<PATH> pathologic_function -process_of-> cell_or_molecular_dysfunction -process_of-> molecular_function
+no 55: score = -5.108417510986328 
+<PATH> research_activity -measures-> lipid -interacts_with-> steroid
+no 56: score = -5.492948055267334 
+<PATH> therapeutic_or_preventive_procedure -affects-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 57: score = -7.310267925262451 
+<PATH> physiologic_function -process_of-> experimental_model_of_disease -co-occurs_with-> congenital_abnormality
+no 58: score = -4.975191116333008 
+<PATH> clinical_attribute -measurement_of-> genetic_function -<null>-> genetic_function
+no 59: score = -6.2324137687683105 
+<PATH> laboratory_procedure -diagnoses-> pathologic_function -<null>-> pathologic_function
+no 60: score = -4.920339584350586 
+<PATH> cell <-adjacent_to- body_part_organ_or_organ_component -part_of-> fungus
+no 61: score = -5.857487201690674 
+<PATH> vitamin <-produces- cell_or_molecular_dysfunction -complicates-> congenital_abnormality
+no 62: score = -5.834986686706543 
+<PATH> clinical_attribute -result_of-> phenomenon_or_process -result_of-> molecular_function
+no 63: score = -6.4385833740234375 
+<PATH> organism_function <-process_of- pathologic_function -<null>-> pathologic_function
+no 0: score = -3.908688545227051 
+<PATH> professional_or_occupational_group <-affects- regulation_or_law -affects-> age_group
+no 1: score = -7.255993366241455 
+<PATH> natural_phenomenon_or_process <-isa- disease_or_syndrome -affects-> genetic_function
+no 2: score = -2.614495277404785 
+<PATH> organization <-isa- health_care_related_organization -location_of-> research_activity
+no 3: score = -5.084708213806152 
+<PATH> embryonic_structure -part_of-> archaeon <-interacts_with- fungus
+no 4: score = -4.361811637878418 
+<PATH> fully_formed_anatomical_structure <-isa- body_part_organ_or_organ_component <-disrupts- enzyme
+no 5: score = -5.74553108215332 
+<PATH> organic_chemical -affects-> experimental_model_of_disease <-affects- biomedical_or_dental_material
+no 6: score = -7.14738655090332 
+<PATH> natural_phenomenon_or_process <-isa- pathologic_function -<null>-> pathologic_function
+no 7: score = -7.257332801818848 
+<PATH> neoplastic_process -process_of-> pathologic_function -process_of-> vertebrate
+no 8: score = -3.5170066356658936 
+<PATH> fully_formed_anatomical_structure <-conceptual_part_of- body_system -issue_in-> biomedical_occupation_or_discipline
+no 9: score = -5.1003217697143555 
+<PATH> environmental_effect_of_humans -<null>-> environmental_effect_of_humans -<null>-> environmental_effect_of_humans
+no 10: score = -6.830241680145264 
+<PATH> experimental_model_of_disease -<null>-> experimental_model_of_disease -result_of-> genetic_function
+no 11: score = -4.726609230041504 
+<PATH> body_part_organ_or_organ_component -location_of-> disease_or_syndrome -affects-> fungus
+no 12: score = -6.5198564529418945 
+<PATH> receptor <-produces- pathologic_function -affects-> mental_or_behavioral_dysfunction
+no 13: score = -6.292362213134766 
+<PATH> sign_or_symptom <-treats- medical_device -prevents-> mental_or_behavioral_dysfunction
+no 14: score = -5.795462131500244 
+<PATH> antibiotic -affects-> organism_function -process_of-> mental_process
+no 15: score = -6.393152236938477 
+<PATH> mental_process -precedes-> genetic_function -result_of-> cell_function
+no 16: score = -6.255241394042969 
+<PATH> chemical_viewed_structurally -causes-> experimental_model_of_disease <-process_of- biologic_function
+no 17: score = -5.873884677886963 
+<PATH> vitamin <-produces- molecular_function -process_of-> organ_or_tissue_function
+no 18: score = -5.327314376831055 
+<PATH> pharmacologic_substance -diagnoses-> pathologic_function -<null>-> pathologic_function
+no 19: score = -3.7168993949890137 
+<PATH> professional_or_occupational_group -manages-> professional_society -carries_out-> health_care_activity
+no 20: score = -3.717904567718506 
+<PATH> educational_activity -isa-> event <-isa- activity
+no 21: score = -4.94961404800415 
+<PATH> congenital_abnormality <-co-occurs_with- disease_or_syndrome -affects-> fungus
+no 22: score = -6.76102352142334 
+<PATH> neoplastic_process -complicates-> pathologic_function -co-occurs_with-> congenital_abnormality
+no 23: score = -5.476958274841309 
+<PATH> chemical_viewed_functionally -affects-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 24: score = -5.686194896697998 
+<PATH> biologic_function -process_of-> mental_or_behavioral_dysfunction <-causes- virus
+no 25: score = -5.891695022583008 
+<PATH> hormone -causes-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 26: score = -5.8018574714660645 
+<PATH> embryonic_structure <-disrupts- vitamin -complicates-> mental_or_behavioral_dysfunction
+no 27: score = -6.088871002197266 
+<PATH> congenital_abnormality <-result_of- environmental_effect_of_humans -result_of-> congenital_abnormality
+no 28: score = -5.483641624450684 
+<PATH> organ_or_tissue_function <-process_of- neoplastic_process <-causes- enzyme
+no 29: score = -5.5481109619140625 
+<PATH> molecular_biology_research_technique -measures-> organic_chemical -interacts_with-> receptor
+no 30: score = -7.297662734985352 
+<PATH> disease_or_syndrome -precedes-> pathologic_function -result_of-> genetic_function
+no 31: score = -6.227578163146973 
+<PATH> finding <-isa- sign_or_symptom -associated_with-> disease_or_syndrome
+no 32: score = -6.290055751800537 
+<PATH> pathologic_function -<null>-> pathologic_function -affects-> plant
+no 33: score = -7.44196891784668 
+<PATH> organ_or_tissue_function -process_of-> experimental_model_of_disease -occurs_in-> neoplastic_process
+no 34: score = -5.47037410736084 
+<PATH> indicator_reagent_or_diagnostic_aid -causes-> experimental_model_of_disease -result_of-> genetic_function
+no 35: score = -3.001275062561035 
+<PATH> health_care_related_organization -<null>-> health_care_related_organization -location_of-> research_activity
+no 36: score = -5.526684761047363 
+<PATH> hazardous_or_poisonous_substance -affects-> mental_process <-location_of- embryonic_structure
+no 37: score = -6.468495845794678 
+<PATH> mental_process -process_of-> pathologic_function -result_of-> organ_or_tissue_function
+no 38: score = -5.511116981506348 
+<PATH> tissue <-produces- mental_or_behavioral_dysfunction -affects-> biologic_function
+no 39: score = -6.060746192932129 
+<PATH> antibiotic -isa-> substance <-isa- chemical_viewed_structurally
+no 40: score = -6.324771881103516 
+<PATH> therapeutic_or_preventive_procedure -affects-> experimental_model_of_disease -occurs_in-> neoplastic_process
+no 41: score = -5.658351898193359 
+<PATH> steroid -affects-> mental_process <-process_of- neoplastic_process
+no 42: score = -4.920958518981934 
+<PATH> pharmacologic_substance -causes-> disease_or_syndrome -<null>-> disease_or_syndrome
+no 43: score = -4.5651350021362305 
+<PATH> behavior -manifestation_of-> mental_process -<null>-> mental_process
+no 44: score = -3.7195630073547363 
+<PATH> social_behavior -associated_with-> group_attribute -property_of-> professional_or_occupational_group
+no 45: score = -6.044008731842041 
+<PATH> tissue -isa-> anatomical_structure <-isa- tissue
+no 46: score = -6.744088649749756 
+<PATH> molecular_function -process_of-> mental_or_behavioral_dysfunction -process_of-> vertebrate
+no 47: score = -3.9844160079956055 
+<PATH> population_group -performs-> activity <-isa- daily_or_recreational_activity
+no 48: score = -5.94875431060791 
+<PATH> biologically_active_substance <-isa- immunologic_factor -disrupts-> gene_or_genome
+no 49: score = -6.264621257781982 
+<PATH> acquired_abnormality -isa-> anatomical_structure <-isa- anatomical_abnormality
+no 50: score = -6.744088649749756 
+<PATH> molecular_function -process_of-> mental_or_behavioral_dysfunction -process_of-> vertebrate
+no 51: score = -6.088871002197266 
+<PATH> congenital_abnormality <-result_of- environmental_effect_of_humans -result_of-> congenital_abnormality
+no 52: score = -6.088871002197266 
+<PATH> congenital_abnormality <-result_of- environmental_effect_of_humans -result_of-> congenital_abnormality
+no 53: score = -7.509389877319336 
+<PATH> neoplastic_process -co-occurs_with-> experimental_model_of_disease -process_of-> bird
+no 54: score = -1.786550760269165 
+<PATH> functional_concept <-isa- body_system -isa-> entity
+no 55: score = -2.7717013359069824 
+<PATH> spatial_concept <-isa- molecular_sequence -isa-> conceptual_entity
+no 56: score = -7.3223114013671875 
+<PATH> mental_or_behavioral_dysfunction -process_of-> experimental_model_of_disease -complicates-> cell_or_molecular_dysfunction
+no 57: score = -5.122280120849609 
+<PATH> biomedical_or_dental_material -affects-> neoplastic_process -<null>-> neoplastic_process
+no 58: score = -4.756544589996338 
+<PATH> hazardous_or_poisonous_substance -causes-> disease_or_syndrome -complicates-> congenital_abnormality
+no 59: score = -5.795462131500244 
+<PATH> antibiotic -affects-> organism_function -process_of-> mental_process
+no 60: score = -7.426011562347412 
+<PATH> disease_or_syndrome -process_of-> experimental_model_of_disease -process_of-> organ_or_tissue_function
+no 61: score = -6.227578163146973 
+<PATH> finding <-isa- sign_or_symptom -associated_with-> disease_or_syndrome
+no 62: score = -5.362680435180664 
+<PATH> element_ion_or_isotope -causes-> experimental_model_of_disease -process_of-> molecular_function
+no 63: score = -5.010913848876953 
+<PATH> amphibian <-affects- physiologic_function -process_of-> archaeon
+no 0: score = -5.498417854309082 
+<PATH> body_space_or_junction -result_of-> mental_process -<null>-> mental_process
+no 1: score = -5.012152671813965 
+<PATH> substance <-isa- food -affects-> neoplastic_process
+no 2: score = -6.989232063293457 
+<PATH> biologic_function <-isa- cell_or_molecular_dysfunction -process_of-> invertebrate
+no 3: score = -5.887819290161133 
+<PATH> indicator_reagent_or_diagnostic_aid <-assesses_effect_of- laboratory_procedure -diagnoses-> neoplastic_process
+no 4: score = -5.108417510986328 
+<PATH> research_activity -measures-> lipid -interacts_with-> steroid
+no 5: score = -6.312915802001953 
+<PATH> injury_or_poisoning <-result_of- experimental_model_of_disease -<null>-> experimental_model_of_disease
+no 6: score = -3.628154993057251 
+<PATH> organization <-isa- self_help_or_relief_organization -issue_in-> occupation_or_discipline
+no 7: score = -7.44196891784668 
+<PATH> organ_or_tissue_function -process_of-> experimental_model_of_disease -occurs_in-> neoplastic_process
+no 8: score = -5.518063545227051 
+<PATH> research_activity -measures-> mental_or_behavioral_dysfunction -<null>-> mental_or_behavioral_dysfunction
+no 9: score = -3.9115524291992188 
+<PATH> human -exhibits-> social_behavior -issue_in-> biomedical_occupation_or_discipline
+no 10: score = -6.744088649749756 
+<PATH> molecular_function -process_of-> mental_or_behavioral_dysfunction -process_of-> vertebrate
+no 11: score = -6.138612747192383 
+<PATH> eicosanoid -affects-> genetic_function <-manifestation_of- disease_or_syndrome
+no 12: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 13: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 14: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 15: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 16: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 17: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 18: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 19: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 20: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 21: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 22: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 23: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 24: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 25: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 26: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 27: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 28: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 29: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 30: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 31: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 32: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 33: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 34: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 35: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 36: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 37: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 38: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 39: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 40: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 41: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 42: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 43: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 44: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 45: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 46: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 47: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 48: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 49: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 50: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 51: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 52: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 53: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 54: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 55: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 56: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 57: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 58: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 59: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 60: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 61: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 62: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
+no 63: score = 0.0 
+<PATH> DUMMY_ENTITY -<null>-> DUMMY_ENTITY -<null>-> DUMMY_ENTITY
